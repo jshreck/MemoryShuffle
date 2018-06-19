@@ -1,0 +1,12 @@
+.thumbnail {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    position: relative;
+    padding: 0;
+    margin: 10px;
+}
+.card-img {
+   height: 100%;
+   width: 100%;
+}
