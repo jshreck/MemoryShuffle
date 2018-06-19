@@ -1,5 +1,5 @@
 Click a card once, but only once.Remember what you click, because the cards shuffle! Every time a new image is clicked, the score increases. If an image is clicked that has already been clicked, the game restarts.
-
+[Click to play!](https://jshreck.github.io/MemoryShuffle/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
